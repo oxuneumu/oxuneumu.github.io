@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxuneumu.github.io/OdP/sitemap_index.txt
+Sitemap: https://oxuneumu.github.io/PCr/sitemap_index.txt
+Sitemap: https://oxuneumu.github.io/RtB/sitemap_index.txt
+Sitemap: https://oxuneumu.github.io/cXe/sitemap_index.txt
